@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+h1 {
+    
+    font-family: 'Bungee', sans-serif;
+}
+
+body{
+    background-color: rgb(247, 227, 203);
+}
+
+.row{
+    background-color: rgb(170, 212, 237);
+    border-color: rgb(39, 39, 39);
+}
+
+
+.container{
+    border-style: solid;
+
+
+}
+
+.col-6{
+    border-style: solid;
+}
+
+.col-6.col-md-4{
+
+    border-style: solid;
+
+}
+
+.col-md-8{
+    border-style: solid;
+}
